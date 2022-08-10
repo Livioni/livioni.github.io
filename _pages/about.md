@@ -26,8 +26,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
-# 📝 Publications
-
+# 📝 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPDS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,6 +35,11 @@ Egret: Reinforcement Sequential Mechanism for
 Computation Offloading in Edge Computing (Coming soon)
 
 **IEEE Transactions on Parallel and Distributed Systems**
+
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
