@@ -28,6 +28,16 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 📝 Publications
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPDS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Egret: Reinforcement Sequential Mechanism for
+Computation Offloading in Edge Computing (Coming soon)
+
+**IEEE Transactions on Parallel and Distributed Systems**
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +51,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +63,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
+
 
 
 # 📖 Educations
