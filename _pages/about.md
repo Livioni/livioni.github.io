@@ -40,12 +40,10 @@ Computation Offloading in Edge Computing (Coming soon)
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3DdfddPuCtIwcKqebARD32k3VlnFXMFvDKu0HFVoRXnHHeVVnUblhT8SoZNKKynKNhbA%26name%3D%2FLore_%2520A%2520Learning-based%2520Approach%2520for%2520Workflow%2520Scheduling%2520in%2520Clouds.pdf%26_etag%3D60f4f)**  (under review)
+**Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin**  (under review)
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
@@ -53,7 +51,6 @@ Computation Offloading in Edge Computing (Coming soon)
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
@@ -67,7 +64,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
-
 
 
 # 📖 Educations
