@@ -53,7 +53,8 @@ Computation Offloading in Edge Computing (Coming soon)
 </div>
 </div>
 
-ra
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +68,8 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 </div>
 </div>
 
-ns
+
+
 
 # 📖 Educations
 
