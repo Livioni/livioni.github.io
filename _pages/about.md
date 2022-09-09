@@ -30,7 +30,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/E.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Egret: Reinforcement Sequential Mechanism for
