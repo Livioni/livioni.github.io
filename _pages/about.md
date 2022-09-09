@@ -20,11 +20,14 @@ redirect_from:
 
 I'm a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Reinforcement Learning.
 
-*The people who are crazy enough to think that they can change the world, are the ones who do*
+*The people who are crazy enough to think that they can change the world, are the ones who do.*
 
 # 🔥 News
 
+*2022.08.31* 🎉🎉 The latest paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accpet as a poster paper in RACS 2022.
+
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+
 
 # 📝 Publication
 
@@ -44,7 +47,7 @@ Computation Offloading in Edge Computing (Coming soon)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Lore: A Learning-based Approach for Workflow Scheduling in Clouds** (under review)
+**Lore: A Learning-based Approach for Workflow Scheduling in Clouds**
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
@@ -52,8 +55,6 @@ Computation Offloading in Edge Computing (Coming soon)
 
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
@@ -67,8 +68,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
-
-
 
 
 # 📖 Educations
