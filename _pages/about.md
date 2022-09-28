@@ -28,6 +28,8 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
+2022.06  🎉🎉  My graduation project won the [excellence award](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg) .
+
 # 📝 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
