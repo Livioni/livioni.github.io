@@ -28,7 +28,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
-2022.06  🎉🎉  My graduation thesis was awarded as [BUCT Excellent graduation thesis](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg)! 
+2022.06  🎉🎉  My graduation thesis was awarded as [BUCT Excellent graduation thesis](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg)!
 
 # 📝 Publication
 
@@ -54,8 +54,11 @@ Computation Offloading in Edge Computing (Coming soon)
 
 **Haosong Peng**, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
+[Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](https://onedrive.live.com/?authkey=%21AA%5FQuw1ktJKpcqk&cid=515680AEEA3FF1B0&id=515680AEEA3FF1B0%214617&parId=515680AEEA3FF1B0%214424&o=OneUp)
+
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
