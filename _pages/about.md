@@ -44,11 +44,10 @@ Computation Offloading in Edge Computing (Coming soon)
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Lore: A Learning-based Approach for Workflow Scheduling in Clouds**
+**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
@@ -58,7 +57,6 @@ Computation Offloading in Edge Computing (Coming soon)
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
