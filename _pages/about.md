@@ -45,6 +45,7 @@ Computation Offloading in Edge Computing (Coming soon)
 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,10 +59,6 @@ Computation Offloading in Edge Computing (Coming soon)
 
 </div>
 </div>
-
-
-
-
 
 
 
@@ -95,3 +92,14 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 # 💻 Internships
 
 - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
+
+# 👥 Links
+
+- Colleague
+
+  - [Ruifeng Ma ](https://ac.ppeak.site/)
+  - [TIanyu QI](https://tymiracle.top/)
+- Outstanding Alumni
+
+  - [Hao Li	](https://vision-intelligence.com.cn/author/hao-li/)
+  - [Zhiwei Wu](https://waynewu0526.github.io/)
