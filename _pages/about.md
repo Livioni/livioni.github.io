@@ -32,15 +32,14 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 📝 Publication
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Infocom</div><img src='images/koutuchuan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Infocom</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Submitted to IEEE Infocom 2024
 
+</div>
+</div>
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
@@ -53,7 +52,6 @@ Computation Offloading in Edge Computing (Coming soon)
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
@@ -71,7 +69,6 @@ Computation Offloading in Edge Computing (Coming soon)
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,8 +80,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
-
-
 
 
 # 📖 Educations
