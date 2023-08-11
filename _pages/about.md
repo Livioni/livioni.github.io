@@ -32,17 +32,27 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 📝 Publication
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Infocom</div><img src='images/koutuchuan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Submitted to IEEE Infocom 2024
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Egret: Reinforcement Sequential Mechanism for
+Egret: Reinforcement Mechanism for Sequential
 Computation Offloading in Edge Computing (Coming soon)
 
 **IEEE Transactions on ________**
 
 </div>
 </div>
-
 
 
 
@@ -73,6 +83,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
+
 
 
 
