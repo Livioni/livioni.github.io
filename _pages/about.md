@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Edge Intelligence and Reinforcement Learning.
+I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics System and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world, are the ones who do.*
 
@@ -45,13 +45,13 @@ Submitted to IEEE Infocom 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Egret: Reinforcement Mechanism for Sequential
-Computation Offloading in Edge Computing (Coming soon)
+Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing (Coming soon)
 
-**IEEE Transactions on ________**
+**IEEE Transactions on Comupter**
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
@@ -71,8 +71,7 @@ Computation Offloading in Edge Computing (Coming soon)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3Dd1c2e4EWuzrYybuQ3bLmCpfZXh-iPSuYC6P5djKa1g9gq_HMQMY8xxUwj5RflCJq_g%26name%3D%2FTrajectory_Tracking_of_a_Novel_Underactuated_AUV_via_Nonsingular_Integral_Terminal_Sliding_Mode_Control.pdf%26_etag%3Dec658)
+[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](https://ieeexplore.ieee.org/document/9492070)
 
 IEEE Access \| 07-20-2021
 
@@ -80,6 +79,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
 </div>
+
 
 
 # 📖 Educations
@@ -92,8 +92,12 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- *2020.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=9fa9rJQnYiT032QpRWP_yV4RqWw1faYB0JavMc1xRgAZmMOJACTUWb3mraPNIcA6YQ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
-- *2019.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=eb92d5VG9GFZkylszzj9ypeVHeFa2mtxT4A29v5eSrlow2V7v1U6jEveeX3u7qa1ag&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
+- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling. First prize of Huawei Special award, nominated by Mathematical Modeling Star (Top 0.06%)
+- 2023.10 First-class scholarship of Beijing Institute of Technology
+- 2022.06 Outstanding Graduates of Beijing
+- 2022.06 Outstanding Graduation Project of Beijing University of Chemical Technology
+- *2020.10* National Scholarship (Top 1%)
+- *2019.10* National Scholarship(Top 1%)
 
 # 💻 Internships
 
