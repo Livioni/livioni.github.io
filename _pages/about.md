@@ -32,6 +32,19 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 # 📝 Publication
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Region Focusing: Accelerating Vision Transformer in Video Analytics System
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Infocom</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,12 +55,12 @@ Submitted to IEEE Infocom 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing (Coming soon)
 
-**IEEE Transactions on Comupter**
+**IEEE Transactions on Comupters**
 
 </div>
 </div>
@@ -67,6 +80,7 @@ Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Com
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
@@ -92,7 +106,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling. First prize of Huawei Special award, nominated by Mathematical Modeling Star (Top 0.06%)
+- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling.First prize of Huawei Special award, nominated by Mathematical Modeling Star (Top 0.06%)
 - 2023.10 First-class scholarship of Beijing Institute of Technology
 - 2022.06 Outstanding Graduates of Beijing
 - 2022.06 Outstanding Graduation Project of Beijing University of Chemical Technology
@@ -105,7 +119,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 👥 Links
 
-- Colleague
+- Group Members
 
   - [Ruifeng Ma ](https://ac.ppeak.site/)
   - [TIanyu QI](https://tymiracle.top/)
