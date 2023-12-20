@@ -24,31 +24,30 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 # 🔥 News
 
+*2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
+
 *2022.08.31* 🎉🎉 The latest paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accpet as a poster paper in RACS 2022.
 
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
-2022.06  🎉🎉  My graduation thesis was awarded as [BUCT Excellent graduation thesis](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg)!
+*2022.06*  🎉🎉  My graduation thesis was awarded as [BUCT Excellent graduation thesis](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg)!
 
 # 📝 Publication
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Region Focusing: Accelerating Vision Transformer in Video Analytics System
+Accelerating Vision Transformer in Video Analytics System
 
 </div>
 </div>
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Infocom</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Submitted to IEEE Infocom 2024
+Submitted to IEEE ICDCS 2024
 
 </div>
 </div>
@@ -106,7 +105,8 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling.First prize of Huawei Special award, nominated by Mathematical Modeling Star (Top 0.06%)
+- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling.
+- 2023.11 First Prize of Huawei Special Award, [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm) (Top 0.05%, First in BIT History.)
 - 2023.10 First-class scholarship of Beijing Institute of Technology
 - 2022.06 Outstanding Graduates of Beijing
 - 2022.06 Outstanding Graduation Project of Beijing University of Chemical Technology
