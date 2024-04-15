@@ -24,9 +24,13 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 # 🔥 News
 
+*2024.04.13 🎉🎉* The latest paper “Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching” has been accpet in IEEE ICDCS 2024.
+
+*2024.04.01 🎉🎉* The paper “Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning” has been accpet as a poster paper in CCC 2024.
+
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
-*2022.08.31* 🎉🎉 The latest paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accpet as a poster paper in RACS 2022.
+*2022.08.31* 🎉🎉 The paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accpet as a poster paper in RACS 2022.
 
 *2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
@@ -34,32 +38,59 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 # 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## 📜 Articles
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Accelerating Vision Transformer in Video Analytics System
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Submitted to IEEE ICDCS 2024
+Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics
+
+**Submitted to ACM MM 2024**
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
+```
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2024</div><img src='images/Octopus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+```
+
+Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning
+
+43rd Chinese Control Conference
+
+Yi Chang, **Haosong Peng**, Yufeng Zhan, Yuanqing Xia
+
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing (Coming soon)
+Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching
 
-**IEEE Transactions on Comupters**
+2024 International Conference on Distributed Computing Systems
+
+**Haosong Peng**, Yufeng Zhan, Peng Li, Yuanqing Xia
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing
+
+**Submitted to IEEE Transactions on Service Computing**
 
 </div>
 </div>
@@ -91,9 +122,15 @@ IEEE Access \| 07-20-2021
 Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 </div>
-</div>
+</di
 
 
+
+## 📁 Patents
+
+- 一种针对目标检测的云边协同方法、装置及产品（已受理，除导师外第一发明人）
+- 一种视频分析边缘计算加速方法、装置、介质及产品（已受理，除导师外第一发明人）
+- 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人）
 
 # 📖 Educations
 
@@ -105,8 +142,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- 2023.11 First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling.
-- 2023.11 First Prize of Huawei Special Award, [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm) (Top 0.05%, First in BIT History.)
+- 2023.12 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
 - 2023.10 First-class scholarship of Beijing Institute of Technology
 - 2022.06 Outstanding Graduates of Beijing
 - 2022.06 Outstanding Graduation Project of Beijing University of Chemical Technology
@@ -123,7 +159,7 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
   - [Ruifeng Ma ](https://ac.ppeak.site/)
   - [TIanyu QI](https://tymiracle.top/)
-- Outstanding Alumni
+- Co-authors
 
-  - [Hao Li	](https://vision-intelligence.com.cn/author/hao-li/)
+  - [Hao Li	](https://lifuguan.github.io/)
   - [Zhiwei Wu](https://waynewu0526.github.io/)
