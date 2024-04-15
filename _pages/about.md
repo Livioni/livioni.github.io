@@ -18,25 +18,25 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics System and Edge Intelligence.
+I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
 
-*The people who are crazy enough to think that they can change the world, are the ones who do.*
+*The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
 
-*2024.04.13 🎉🎉* The latest paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accpet in IEEE ICDCS 2024.
+*2024.04.13 🎉🎉* The latest paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024.
 
-*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accpet as a poster paper in CCC 2024.
+*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accepted as a poster paper in CCC 2024.
 
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
-*2022.08.31* 🎉🎉 The paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accpet as a poster paper in RACS 2022.
+*2022.08.31* 🎉🎉 The paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accepted as a poster paper in RACS 2022.
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+*2022.07.11*  🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
 
-*2022.06*  🎉🎉  My graduation thesis was awarded as [BUCT Excellent graduation thesis](http://49.233.4.4:1000/index.php?explorer/share/file&hash=a156lXXD6lTQ--SyT83WksTXaSl2S4E3NDfEaMDiZ-kqPRi25-dUgMXC-830xOfPmg&name=/bylw.jpeg)!
+*2022.06*  🎉🎉  My graduation thesis was awarded as BUCT Excellent graduation thesis!
 
-# 📝 Publication
+# 📝 Publications
 
 ## 📜 Articles
 
@@ -47,24 +47,11 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 ---
 
-**Submitted to ACM MM 2024**
-
-<u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2024</div><img src='images/Octopus.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning**
+Submitted to ACM MM 2024
 
 ---
 
-43rd Chinese Control Conference
-
-Yi Chang, <u>Haosong Peng<u>, Yufeng Zhan, Yuanqing Xia
+<u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -75,11 +62,13 @@ Yi Chang, <u>Haosong Peng<u>, Yufeng Zhan, Yuanqing Xia
 
 **Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching**
 
+--- 
+
 2024 International Conference on Distributed Computing Systems
 
 ---
 
-<u>Haosong Peng<u>, Yufeng Zhan, Peng Li, Yuanqing Xia
+<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 </div>
 </div>
@@ -90,11 +79,13 @@ Yi Chang, <u>Haosong Peng<u>, Yufeng Zhan, Yuanqing Xia
 
 **Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**
 
-**Submitted to IEEE Transactions on Service Computing**
+---
+
+Submitted to IEEE Transactions on Service Computing
 
 ---
 
-<u>Haosong Peng<u>, Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+<u>Haosong Peng</u> , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
@@ -105,31 +96,30 @@ Yi Chang, <u>Haosong Peng<u>, Yufeng Zhan, Yuanqing Xia
 
 **[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**
 
+---
+
 2022 International Conference on Research in Adaptive and Convergent Systems
 
 ---
 
-<u>Haosong Peng<u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+<u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](https://onedrive.live.com/?authkey=%21AA%5FQuw1ktJKpcqk&cid=515680AEEA3FF1B0&id=515680AEEA3FF1B0%214617&parId=515680AEEA3FF1B0%214424&o=OneUp)
 
 </div>
 </div>
 
+## 👨‍💻 Collaboration
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](https://ieeexplore.ieee.org/document/9492070)
-
-IEEE Access \| 07-20-2021
-
---- 
-
-Zhiwei Wu, <u>Haosong Peng<u>, Biao Hu, Xiaodong Feng
-
-</div>
+<div markdown="1">
+- Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning," in 43rd Chinese Control Conference.
 </div>
 
+---
+
+<div markdown="1">
+- Zhiwei Wu, <u>Haosong Peng</u>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)," in IEEE Access 9 (2021): 103407-103418.,
+</div>
 
 ## 📁 Patents
 - 一种针对目标检测的云边协同方法、装置及产品, （已受理，除导师外第一发明人）
@@ -146,6 +136,7 @@ Zhiwei Wu, <u>Haosong Peng<u>, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
+- *2024.04* 中国研究生创新实践系列大赛2023年度创新实践之星 
 - *2023.12* 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
 - *2023.10* First-class scholarship of Beijing Institute of Technology
 - *2022.06* Outstanding Graduates of Beijing
@@ -163,7 +154,7 @@ Zhiwei Wu, <u>Haosong Peng<u>, Biao Hu, Xiaodong Feng
 
 # 👥 Links
 
-- Group Members
+- Lab Members
 
   - [Ruifeng Ma ](https://ac.ppeak.site/)
   - [TIanyu QI](https://tymiracle.top/)
