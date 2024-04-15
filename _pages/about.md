@@ -24,9 +24,9 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 # 🔥 News
 
-*2024.04.13 🎉🎉* The latest paper “Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching” has been accpet in IEEE ICDCS 2024.
+*2024.04.13 🎉🎉* The latest paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accpet in IEEE ICDCS 2024.
 
-*2024.04.01 🎉🎉* The paper “Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning” has been accpet as a poster paper in CCC 2024.
+*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accpet as a poster paper in CCC 2024.
 
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
@@ -43,43 +43,43 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class='paper-box-text' markdown="1">
+**Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics**
 
-Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics
+---
 
 **Submitted to ACM MM 2024**
 
+<u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+
 </div>
 </div>
 
 
-
-```
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2024</div><img src='images/Octopus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-```
 
-Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning
+**Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning**
+
+---
 
 43rd Chinese Control Conference
 
-Yi Chang, **Haosong Peng**, Yufeng Zhan, Yuanqing Xia
-
+Yi Chang, <u>Haosong Peng<u>, Yufeng Zhan, Yuanqing Xia
 
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching
+**Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching**
 
 2024 International Conference on Distributed Computing Systems
 
-**Haosong Peng**, Yufeng Zhan, Peng Li, Yuanqing Xia
+---
+
+<u>Haosong Peng<u>, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 </div>
 </div>
@@ -88,13 +88,16 @@ Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing
+**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**
 
 **Submitted to IEEE Transactions on Service Computing**
 
-</div>
-</div>
+---
 
+<u>Haosong Peng<u>, Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
@@ -104,13 +107,14 @@ Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Com
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
-**Haosong Peng**, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+---
+
+<u>Haosong Peng<u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](https://onedrive.live.com/?authkey=%21AA%5FQuw1ktJKpcqk&cid=515680AEEA3FF1B0&id=515680AEEA3FF1B0%214617&parId=515680AEEA3FF1B0%214424&o=OneUp)
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
@@ -119,17 +123,17 @@ Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Com
 
 IEEE Access \| 07-20-2021
 
-Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
+--- 
+
+Zhiwei Wu, <u>Haosong Peng<u>, Biao Hu, Xiaodong Feng
 
 </div>
-</di
-
+</div>
 
 
 ## 📁 Patents
-
-- 一种针对目标检测的云边协同方法、装置及产品（已受理，除导师外第一发明人）
-- 一种视频分析边缘计算加速方法、装置、介质及产品（已受理，除导师外第一发明人）
+- 一种针对目标检测的云边协同方法、装置及产品, （已受理，除导师外第一发明人）
+- 一种视频分析边缘计算加速方法、装置、介质及产品,（已受理，除导师外第一发明人）
 - 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人）
 
 # 📖 Educations
@@ -142,10 +146,10 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- 2023.12 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
-- 2023.10 First-class scholarship of Beijing Institute of Technology
-- 2022.06 Outstanding Graduates of Beijing
-- 2022.06 Outstanding Graduation Project of Beijing University of Chemical Technology
+- *2023.12* 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
+- *2023.10* First-class scholarship of Beijing Institute of Technology
+- *2022.06* Outstanding Graduates of Beijing
+- *2022.06* Outstanding Graduation Project of Beijing University of Chemical Technology
 - *2020.10* National Scholarship (Top 1%)
 - *2019.10* National Scholarship(Top 1%)
 
@@ -153,12 +157,17 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
 
+# 📚 Skills
+- **Software:** Python, Pytorch, Matlab & Simulink, R, C, Golang, Bash, Linux, Docker, Latex, MS Office
+- **Language:** English (CET-6), Chinese (Native)
+
 # 👥 Links
 
 - Group Members
 
   - [Ruifeng Ma ](https://ac.ppeak.site/)
   - [TIanyu QI](https://tymiracle.top/)
+  
 - Co-authors
 
   - [Hao Li	](https://lifuguan.github.io/)
