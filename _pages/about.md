@@ -43,7 +43,7 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics**
+**[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
 
 ---
 
@@ -60,7 +60,7 @@ Submitted to ACM MM 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching**
+**[Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching](https://arxiv.org/abs/2404.09267)**
 
 --- 
 
@@ -77,7 +77,7 @@ Submitted to ACM MM 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing**
+**[Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing](https://arxiv.org/abs/2404.09285)**
 
 ---
 
