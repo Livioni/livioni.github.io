@@ -161,5 +161,5 @@ Submitted to IEEE Transactions on Service Computing
   
 - Co-authors
 
-  - [Hao Li	](https://lifuguan.github.io/) （NWPU)
+  - [Hao Li	](https://lifuguan.github.io/) (NWPU)
   - [Zhiwei Wu](https://waynewu0526.github.io/) (BIT)
