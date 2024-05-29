@@ -156,10 +156,10 @@ Submitted to IEEE Transactions on Service Computing
 
 - Lab Members
 
-  - [Ruifeng Ma ](https://ac.ppeak.site/)
-  - [TIanyu QI](https://tymiracle.top/)
+  - [Ruifeng Ma ](https://ac.ppeak.site/) (BIT)
+  - [TIanyu QI](https://tymiracle.top/) (SYSU)
   
 - Co-authors
 
-  - [Hao Li	](https://lifuguan.github.io/)
-  - [Zhiwei Wu](https://waynewu0526.github.io/)
+  - [Hao Li	](https://lifuguan.github.io/) （NWPU)
+  - [Zhiwei Wu](https://waynewu0526.github.io/) (BIT)
