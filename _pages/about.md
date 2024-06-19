@@ -20,6 +20,8 @@ redirect_from:
 
 I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
 
+I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
+
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
@@ -40,6 +42,13 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 ## 📜 Articles
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,7 +56,7 @@ I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Be
 
 ---
 
-Submitted to ACM MM 2024
+Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
 
 ---
 
@@ -62,7 +71,7 @@ Submitted to ACM MM 2024
 
 **[Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching](https://arxiv.org/abs/2404.09267)**
 
---- 
+---
 
 2024 International Conference on Distributed Computing Systems
 
@@ -81,7 +90,7 @@ Submitted to ACM MM 2024
 
 ---
 
-Submitted to IEEE Transactions on Service Computing
+Submitted to IEEE Transactions on Service Computing (Major Revision)
 
 ---
 
