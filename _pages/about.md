@@ -73,7 +73,7 @@ Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
 
 ---
 
-2024 International Conference on Distributed Computing Systems
+2024 International Conference on Distributed Computing Systems (CCF-B)
 
 ---
 
@@ -90,7 +90,7 @@ Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
 
 ---
 
-Submitted to IEEE Transactions on Service Computing (Major Revision)
+Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 ---
 
