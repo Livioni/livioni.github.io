@@ -45,6 +45,25 @@ I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+---
+
+Submitted to Infocom 2025
+
+---
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+---
+
+Submitted to Infocom 2025
+
+---
+
+
 </div>
 </div>
 
@@ -78,6 +97,8 @@ Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
 ---
 
 <u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
+
+[Slide](resources/Tangram.pdf)
 
 </div>
 </div>
@@ -113,7 +134,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
-[Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](https://onedrive.live.com/?authkey=%21AA%5FQuw1ktJKpcqk&cid=515680AEEA3FF1B0&id=515680AEEA3FF1B0%214617&parId=515680AEEA3FF1B0%214424&o=OneUp)
+[Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
 </div>
 </div>
