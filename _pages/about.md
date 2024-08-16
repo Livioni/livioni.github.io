@@ -42,7 +42,7 @@ I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer 
 
 ## 📜 Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ---
@@ -54,6 +54,8 @@ Submitted to Infocom 2025
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,23 +65,23 @@ Submitted to Infocom 2025
 
 ---
 
-
 </div>
-</div>
+</div>-->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
 
 ---
 
-Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
+Submitted to IEEE Transactions on Service Computing (CCF-A) 
 
 ---
 
-<u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+`<u>`Haosong Peng`</u>`, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -96,13 +98,14 @@ Submitted to ACM MM 2024 (4,3,3,2) (Withdraw)
 
 ---
 
-<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
+`<u>`Haosong Peng`</u>`, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 [Slide](resources/Tangram.pdf)
 
 </div>
 </div>
 
+C
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,10 +118,11 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 ---
 
-<u>Haosong Peng</u> , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+`<u>`Haosong Peng`</u>` , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
@@ -132,12 +136,14 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 ---
 
-<u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+`<u>`Haosong Peng`</u>`, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
 </div>
 </div>
+
+
 
 ## 👨‍💻 Collaboration
 
@@ -152,6 +158,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 </div>
 
 ## 📁 Patents
+
 - 一种针对目标检测的云边协同方法、装置及产品, （已受理，除导师外第一发明人）
 - 一种视频分析边缘计算加速方法、装置、介质及产品,（已受理，除导师外第一发明人）
 - 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人）
@@ -166,7 +173,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 # 🎖 Honors and Awards
 
-- *2024.04* 中国研究生创新实践系列大赛2023年度创新实践之星 
+- *2024.04* 中国研究生创新实践系列大赛2023年度创新实践之星
 - *2023.12* 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
 - *2023.10* First-class scholarship of Beijing Institute of Technology
 - *2022.06* Outstanding Graduates of Beijing
@@ -179,6 +186,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
 
 # 📚 Skills
+
 - **Software:** Python, Pytorch, Matlab & Simulink, R, C, Golang, Bash, Linux, Docker, Latex, MS Office
 - **Language:** English (CET-6), Chinese (Native)
 
@@ -188,7 +196,6 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
   - [Ruifeng Ma ](https://ac.ppeak.site/) (BIT)
   - [TIanyu QI](https://tymiracle.top/) (SYSU)
-  
 - Co-authors
 
   - [Hao Li	](https://lifuguan.github.io/) (NWPU)
