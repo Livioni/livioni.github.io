@@ -81,7 +81,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A)
 
 ---
 
-`<u>`Haosong Peng`</u>`, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ <u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -98,14 +98,13 @@ Submitted to IEEE Transactions on Service Computing (CCF-A)
 
 ---
 
-`<u>`Haosong Peng`</u>`, Yufeng Zhan, Peng Li, Yuanqing Xia
+<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 [Slide](resources/Tangram.pdf)
 
 </div>
 </div>
 
-C
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,7 +117,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 ---
 
-`<u>`Haosong Peng`</u>` , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+<u>Haosong Peng</u> , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
@@ -136,7 +135,7 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 
 ---
 
-`<u>`Haosong Peng`</u>`, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+<u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
