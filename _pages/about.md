@@ -20,7 +20,7 @@ redirect_from:
 
 I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
 
-I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
+I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -40,9 +40,27 @@ I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer 
 
 # 📝 Publications
 
-## 📜 Articles
+## 📜 Articles (* denotes equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes
+
+---
+
+Submitted to ICRA 2025 (CCF-B)
+
+---
+
+Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
+
+</div>
+</div>
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 ---
@@ -70,18 +88,18 @@ Submitted to Infocom 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
 
 ---
 
-Submitted to IEEE Transactions on Service Computing (CCF-A) 
+Submitted to IEEE Transactions on Computers (CCF-A) 
 
 ---
 
- <u>Haosong Peng</u>, Wei Feng, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -147,8 +165,9 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 ## 👨‍💻 Collaboration
 
 <div markdown="1">
-- Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning," in 43rd Chinese Control Conference.
+- Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
 </div>
+
 
 ---
 
@@ -194,7 +213,10 @@ Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
 - Lab Members
 
   - [Ruifeng Ma ](https://ac.ppeak.site/) (BIT)
-  - [TIanyu QI](https://tymiracle.top/) (SYSU)
+  - [Tianyu QI](https://tymiracle.top/) (SYSU)
+  - [Feng Wei](https://github.com/Couteaux123) (BIT)
+  
+  
 - Co-authors
 
   - [Hao Li	](https://lifuguan.github.io/) (NWPU)
