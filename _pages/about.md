@@ -26,9 +26,11 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 # 🔥 News
 
-*2024.04.13 🎉🎉* The latest paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024.
+*2024.10.01 🎉🎉* The latest paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Service Computing (CCF-A).
 
-*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accepted as a poster paper in CCC 2024.
+*2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
+
+*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accepted as a poster paper in CCC 2024 (CAA-A).
 
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
@@ -131,7 +133,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-Submitted to IEEE Transactions on Service Computing (CCF-A) (Major Revision)
+IEEE Transactions on Service Computing (CCF-A) 
 
 ---
 
