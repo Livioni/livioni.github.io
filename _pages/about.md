@@ -26,7 +26,7 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 # 🔥 News
 
-*2024.10.01 🎉🎉* The latest paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Service Computing (CCF-A).
+*2024.10.01 🎉🎉* The latest paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
 *2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
 
@@ -90,7 +90,7 @@ Submitted to Infocom 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2024</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
@@ -133,7 +133,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-IEEE Transactions on Service Computing (CCF-A) 
+IEEE Transactions on Services Computing (CCF-A) 
 
 ---
 
