@@ -21,6 +21,7 @@ redirect_from:
 I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
 
 I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
+[Here](resources/phs_cv_2024_10_9.pdf) is my CV ([Chinese Version](resources/彭皓崧简历_2024_10_9.pdf)).
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -189,7 +190,7 @@ IEEE Transactions on Services Computing (CCF-A)
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
 
   **Rank: 1/153** \| **GPA: 4.07/4.33**
-- *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
+- *2015.09-2018.06*, Chongqing Yucai High School, Chongqing
 
 # 🎖 Honors and Awards
 
