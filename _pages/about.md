@@ -110,7 +110,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching](https://arxiv.org/abs/2404.09267)**
+**[Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching](https://ieeexplore.ieee.org/document/10631036)**
 
 ---
 
