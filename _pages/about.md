@@ -21,7 +21,7 @@ redirect_from:
 I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
 
 I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
-[Here](resources/phs_cv_2024_10_9.pdf) is my CV ([Chinese Version](resources/彭皓崧简历_2024_10_9.pdf)).
+[Here](resources/HaosongPengCV.pdf) is my CV ([Chinese Version](resources/彭皓崧简历.pdf)).
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -130,7 +130,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/Egret.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing](https://arxiv.org/abs/2404.09285)**
+**[Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing](https://ieeexplore.ieee.org/document/10713973)**
 
 ---
 
