@@ -57,11 +57,10 @@ Submitted to ICRA 2025 (CCF-B)
 
 ---
 
-Hao Li\*, Yuanyuan Gao\*, `<u>`Haosong Peng*`</u>`, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
+Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
 
 </div>
 </div>
-
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 
@@ -90,6 +89,8 @@ Submitted to Infocom 2025
 </div>
 </div>-->
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,11 +98,11 @@ Submitted to Infocom 2025
 
 ---
 
-Submitted to IEEE Transactions on Computers (CCF-A)
+Submitted to IEEE Transactions on Computers (CCF-A) 
 
 ---
 
- `<u>`Haosong Peng*`</u>`, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -118,7 +119,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-`<u>`Haosong Peng`</u>`, Yufeng Zhan, Peng Li, Yuanqing Xia
+<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 [Slide](resources/Tangram.pdf)
 
@@ -133,14 +134,15 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-IEEE Transactions on Services Computing (CCF-A)
+IEEE Transactions on Services Computing (CCF-A) 
 
 ---
 
-`<u>`Haosong Peng`</u>` , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+<u>Haosong Peng</u> , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
@@ -154,7 +156,7 @@ IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-`<u>`Haosong Peng`</u>`, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+<u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
 
 [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
@@ -162,11 +164,13 @@ IEEE Transactions on Services Computing (CCF-A)
 </div>
 
 
+
 ## 👨‍💻 Collaboration
 
 <div markdown="1">
 - Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
 </div>
+
 
 ---
 
@@ -214,6 +218,8 @@ IEEE Transactions on Services Computing (CCF-A)
   - [Ruifeng Ma ](https://ac.ppeak.site/) (BIT)
   - [Tianyu QI](https://tymiracle.top/) (SYSU)
   - [Feng Wei](https://github.com/Couteaux123) (BIT)
+  
+  
 - Co-authors
 
   - [Hao Li	](https://lifuguan.github.io/) (NWPU)
