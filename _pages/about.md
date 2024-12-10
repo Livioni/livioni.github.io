@@ -43,13 +43,13 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 # 📝 Publications
 
-## 📜 Articles (* denotes equal contribution)
+## 📜 Articles & Manuscripts (* denotes equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes
+**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://arxiv.org/abs/2411.12309)**
 
 ---
 
@@ -73,21 +73,25 @@ Submitted to Infocom 2025
 ---
 
 </div>
-</div>
+</div>-->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
----
-
-Submitted to Infocom 2025
+**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
 
 ---
+
+
+
+---
+
+ <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 </div>
-</div>-->
+</div>
 
 
 
@@ -143,25 +147,10 @@ IEEE Transactions on Services Computing (CCF-A)
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**
-
 ---
 
-2022 International Conference on Research in Adaptive and Convergent Systems
+- <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
----
-
-<u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia
-
-[Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
-
-</div>
-</div>
 
 
 
