@@ -27,6 +27,8 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 # 🔥 News
 
+*2025.01.28 🎉🎉* The latest paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
+
 *2024.10.01 🎉🎉* The latest paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
 *2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
@@ -35,11 +37,8 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
-*2022.08.31* 🎉🎉 The paper “*Lore: A Learning-based Approach for Workflow Scheduling*” has been accepted as a poster paper in RACS 2022.
-
 *2022.07.11*  🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
 
-*2022.06*  🎉🎉  My graduation thesis was awarded as BUCT Excellent graduation thesis!
 
 # 📝 Publications
 
@@ -53,7 +52,7 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 ---
 
-Submitted to ICRA 2025 (CCF-B)
+2025 IEEE International Conference on Robotics and Automation (CCF-B)
 
 ---
 
@@ -84,7 +83,7 @@ Submitted to Infocom 2025
 
 ---
 
-
+Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
@@ -119,7 +118,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-2024 International Conference on Distributed Computing Systems (CCF-B)
+2024 IEEE International Conference on Distributed Computing Systems (CCF-B)
 
 ---
 
